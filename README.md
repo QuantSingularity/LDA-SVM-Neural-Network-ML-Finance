@@ -1,6 +1,7 @@
 # LDA-SVM-NeuralNetwork-ML-Finance
 
 > **Machine Learning in Finance**
+
 > A computational handbook demonstrating three advanced ML techniques for quantitative finance: Linear Discriminant Analysis, Support Vector Machines, and Neural Networks.
 
 ---
@@ -182,15 +183,6 @@ All data is synthetically generated using numpy and scikit-learn with fixed rand
 ## Topics
 
 `machine-learning` `quantitative-finance` `lda` `svm` `neural-network` `classification` `market-regime` `distress-prediction` `decision-boundary` `feature-engineering` `python` `scikit-learn` `jupyter-notebook` `QuantSingularity`
-
----
-
-## Organization
-
-| Field        | Detail                      |
-| ------------ | --------------------------- |
-| Organization | QuantSingularity            |
-| Domain       | Machine Learning in Finance |
 
 ---
 
