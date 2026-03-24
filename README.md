@@ -1,4 +1,4 @@
-# LDA-SVM-NeuralNetwork-ML-Finance
+# LDA-SVM-Neural-Network-ML-Finance
 
 > Machine Learning in Finance
 
@@ -163,10 +163,10 @@ seaborn
 ## Installation
 
 ```bash
-git clone https://github.com/QuantSingularity/LDA-SVM-NeuralNetwork-ML-Finance.git
-cd LDA-SVM-NeuralNetwork-ML-Finance
+git clone https://github.com/QuantSingularity/LDA-SVM-Neural-Network-ML-Finance.git
+cd LDA-SVM-Neural-Network-ML-Finance
 pip install scikit-learn pandas numpy matplotlib seaborn
-jupyter notebook LDA-SVM-NeuralNetwork-ML-Finance.ipynb
+jupyter notebook LDA_SVM_Neural_Network_ML_Finance.ipynb
 ```
 
 ---
